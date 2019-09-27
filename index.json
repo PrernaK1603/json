@@ -1,0 +1,3 @@
+//data = '[{"name" : "Riyaz"},{"name" : "Javed"},{"name" : "Arun"},{"name" : "Sunil"},{"name" : "Rahul"},{"name" : "Anita"}]';
+
+data='[{"description":"this is first image","image":"gulp.png"},{"description":"this is second image","image":"g2.png"}]';
